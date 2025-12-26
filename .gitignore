@@ -1,0 +1,9 @@
+#for mac
+*/.DS_Store
+.DS_Store
+
+#for goland(jetbrain)
+.idea/
+*.iws
+*.iml
+*.ipr

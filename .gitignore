@@ -7,3 +7,6 @@
 *.iws
 *.iml
 *.ipr
+
+#for sketch book
+test.go
